@@ -1,0 +1,9 @@
+{
+  "Port": 3306,
+  "Host": "database",
+  "Username": "rc24",
+  "Password": "changeme",
+  "DBName": "WC24Mail",
+  "BindTo": ":80",
+  "Debug": true
+}
